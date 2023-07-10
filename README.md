@@ -15,6 +15,10 @@ Generate passowrds
 
 ![image](Asstes/screenshot.png)
 
+## Deployment link
+
+https://ayrh1.github.io/JS-PasswordGenerator/
+
 ## Credits
 
 * [MDN Web Docs on window.alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
